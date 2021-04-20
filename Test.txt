@@ -1,0 +1,3 @@
+initialiser fait
+expliquer les comits
+parler du markdown
