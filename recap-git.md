@@ -19,3 +19,4 @@ par exemple :
 - git push origin main
 
 il est possible de parametrer la branche pour toujour pousser au meme endroit, ce qui vous permet 
+- git push -- set-upstream origin main
