@@ -1,3 +1,6 @@
-initialiser fait
-expliquer les comits
+initialiser - fait
+expliquer les comits - fait
 parler du markdown
+parler des repos distants
+parler des branches
+montrer la colaboration
